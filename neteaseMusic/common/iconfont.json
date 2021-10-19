@@ -1,0 +1,86 @@
+{
+  "id": "2814328",
+  "name": "网易",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5109583",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "9336909",
+      "name": "停止",
+      "font_class": "tingzhi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5455832",
+      "name": "播放",
+      "font_class": "iconset0481",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "653201",
+      "name": "右三角",
+      "font_class": "jianyingyoujiantou-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "970393",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "6243589",
+      "name": "操作-关闭",
+      "font_class": "icon-2",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "10465823",
+      "name": "左箭头",
+      "font_class": "mjiantou-copy12",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "12827729",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "22115238",
+      "name": "分 享",
+      "font_class": "fenxiang",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "23450312",
+      "name": "点赞",
+      "font_class": "zanpress-copy",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "19780667",
+      "name": "shouye",
+      "font_class": "shouye1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
